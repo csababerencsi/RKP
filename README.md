@@ -1,0 +1,2 @@
+# RKP
+Rendszerközeli Programozás projekt
